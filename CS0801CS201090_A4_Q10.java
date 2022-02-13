@@ -3,7 +3,6 @@ interface Data{
     double pi=3.142;
     double volume();
 }
-
 class Base{
     int rad;
     Base(int rad){
